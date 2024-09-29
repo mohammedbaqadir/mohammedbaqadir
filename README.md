@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohammed Baqadir
 
-## 💻 Full-Stack Web Developer | Laravel Enthusiast | Efficiency Optimizer
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo2&pause=1000&color=1E698A&width=435&lines=Full-Stack+Web+Developer+...;Laravel+Enthusiast+...;Efficiency+Optimizer+...)](https://git.io/typing-svg)
 
 I'm passionate about crafting clean, efficient, and user-centric web applications. With a keen eye for detail and a love for solving complex problems, I strive to create solutions that make a real difference.
 
