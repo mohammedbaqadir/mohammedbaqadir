@@ -39,6 +39,4 @@ I'm passionate about crafting clean, efficient, and user-centric web application
 
 
 ### 📫 How to reach me
-
-mohammedbaqadir@outlook.com
----
+📧 mohammedbaqadir@outlook.com
